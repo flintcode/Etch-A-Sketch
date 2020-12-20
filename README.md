@@ -9,3 +9,4 @@ What was learned:
 4. Utilized nested loops to create grid design
 5. Using dom to create functional buttons and interactivity 
 6. Manipulating elements, functions and using developer tools to debug 
+7. Created specific grid sizes  with interactive buttons to improve UX/UI (rather than grid alerts)
