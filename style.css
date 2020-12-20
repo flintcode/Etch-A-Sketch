@@ -1,0 +1,163 @@
+
+body{
+    background:lightskyblue;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color:lightcoral;
+}
+h1 {
+    font-size: 50px;
+    text-shadow: 2px 2px white;
+    position:relative;
+    bottom:15px;
+}
+button {
+    background-color: transparent;
+    height: 50px;
+    width:100px;
+    border-radius: 10%;
+    box-shadow: 0px 0px 1px 2px whitesmoke;
+    font-size: 30px;
+    font-weight:bolder;
+    font-family: 'Dancing Script', cursive;
+}
+button:hover {
+    box-shadow: 0px 0px 5px 5px whitesmoke;
+}
+.squareSmall {
+    border:1px solid gray;
+    min-width: 20px;
+    min-height:20px;
+    display:inline-block;
+}
+.square {
+    border: 1px solid gray;
+    min-width: 40px;
+    min-height: 40px;
+    display: inline-block;
+}
+.squareLarge{
+    border: 1px solid gray;
+    min-width: 65px;
+    min-height: 65px;
+    display: inline-block;
+}
+#container {
+    border-radius:3%;
+    border:4px solid black;
+    width: 675px;
+    height: 640px;
+    margin: auto;
+    position:relative;
+    top:35px;
+    overflow:hidden;
+    background-color: white;
+}
+.mainButtons {
+    position: relative;
+    margin:auto;
+    top:15px;
+}
+.functionButtons {
+    position: relative;
+    margin:auto;
+    top:55px;
+    left:30px;
+}
+#reset {
+    margin:0px 15px;
+    background: tomato;
+}
+#black {
+    margin:0px 15px;
+    box-shadow: 2px 2px 3px 1px white;
+    background:black;
+    color:white;
+}
+#black:hover {
+    transform: scale(1.1);
+}
+#white {
+    margin:0px 15px;
+    box-shadow: 2px 2px 3px 1px white;
+    color: white;
+}
+#white:hover {
+    transform: scale(1.1);
+}
+#gray {
+    margin:0px 15px;
+    box-shadow: 2px 2px 3px 1px white;
+    background: gray;
+}
+#gray:hover {
+    transform: scale(1.1);
+}
+#red {
+    margin:0px 15px;
+    box-shadow: 2px 2px 3px 1px white;
+    background: red;
+}
+#red:hover {
+    transform: scale(1.1);
+}
+#green {
+    margin:0px 15px;
+    box-shadow: 2px 2px 3px 1px white;
+    background:green;
+}
+#green:hover {
+    transform: scale(1.1);
+}
+#blue {
+    margin:0px 15px;
+    box-shadow: 2px 2px 3px 1px white;
+    background:blue;
+}
+#blue:hover {
+    transform: scale(1.1);
+}
+
+#reset {
+    margin:0px 15px;
+}
+#reset:hover {
+    transform:scale(1.1);
+}
+#eraser {
+    margin:0px 15px;
+    background: tomato;
+}
+#eraser:hover {
+    transform:scale(1.1);
+}
+#copyright {
+    position:relative;
+    top:45px;
+    font-size: 20px;
+}
+#smallGrid {
+    margin:5px 10px 0px 55px;
+    border-radius: 50%;
+    background:orange;
+}
+#mediumGrid {
+    margin:5px 20px;
+    border-radius: 50%;
+    background:orange;
+}
+#largeGrid {
+    margin:5px 75px 0px 10px;
+    border-radius: 50%;
+    background:orange;
+}
+#mainContainer {
+    border:5px solid black;
+    border-radius:5%;
+    height:850px;
+    width: 800px;
+    background:orange;
+    position:relative;
+    bottom:30px;
+    margin:auto;
+}
