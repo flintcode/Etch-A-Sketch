@@ -7,5 +7,5 @@ What was learned:
 2. Applying CSS, JS, HTML using events 
 3. Applying styling through DOM and utilizing event listeners such as mouseover, click
 4. Utilized nested loops to create grid design
-5. USing dom to create functional buttons and interactivity 
+5. Using dom to create functional buttons and interactivity 
 6. Manipulating elements, functions and using developer tools to debug 
