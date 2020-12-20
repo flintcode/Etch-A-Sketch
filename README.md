@@ -1,6 +1,6 @@
 # Etch-A-Sketch
 
-Live Preview
+Live Preview: https://flintcode.github.io/Etch-A-Sketch/
 
 What was learned:
 1. Creating complex grids with DOM manipulation
