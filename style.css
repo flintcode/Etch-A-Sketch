@@ -26,20 +26,20 @@ button:hover {
 }
 .squareSmall {
     border:1px solid gray;
+    min-width:10px;
+    min-height:14px;
+    display:inline-block;
+}
+.square {
+    border:1px solid gray;
     min-width: 20px;
     min-height:20px;
     display:inline-block;
 }
-.square {
+.squareLarge{
     border: 1px solid gray;
     min-width: 40px;
     min-height: 40px;
-    display: inline-block;
-}
-.squareLarge{
-    border: 1px solid gray;
-    min-width: 65px;
-    min-height: 65px;
     display: inline-block;
 }
 #container {

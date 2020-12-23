@@ -10,7 +10,7 @@ const blue = document.querySelector("#blue");
 const smallGrid = document.querySelector("#smallGrid");
 const mediumGrid = document.querySelector("#mediumGrid");
 const largeGrid = document.querySelector("#largeGrid");
-const rgb = document.querySelector('#rgb')
+
 
 function grid(rowNum){
     for (i = 0; i < rowNum; i++){
@@ -87,4 +87,4 @@ function grid(rowNum){
           } 
       }
     }
-grid(31);
+grid(50);
